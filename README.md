@@ -47,5 +47,11 @@
 
 |sub4. 이벤트 전파
 
-## **Ch06. 객체와 문서객체모델(DOM)**  
-## **Ch07. AJAX**  
+## **Ch06. 비동기 처리와 AJAX**  
+|sub1. 비동기 처리
+
+|sub2. Promise
+
+|sub3. JSON
+
+|sub4. AJAX
